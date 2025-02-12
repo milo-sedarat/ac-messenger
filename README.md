@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/79793867/198003660-f5a2af9f-e9a6-4511-
 Step 1: Clone Repository and Install Packages.
 
 ```bash
-  git clone https://github.com/alicalimli/ac-messenger && cd ac-messenger && npm install
+  git clone https://github.com/milo-sedarat/ac-messenger && cd ac-messenger && npm install
 ```
 
 Step 2: Create firebaseConfig.ts file inside **src/setup/firebase** directory.
@@ -60,4 +60,4 @@ You can support this project by leaving a star, Thank you 😁
 
 ## Authors
 
-- [@alicalimli](https://www.github.com/alicalimli)
+- [@milosedarat](https://www.github.com/milo-sedarat)
